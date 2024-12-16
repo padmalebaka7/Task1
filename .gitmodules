@@ -1,0 +1,6 @@
+[submodule "healthcare"]
+	path = healthcare
+	url = https://github.com/padmalebaka7/Task1.git
+[submodule "Task1"]
+	path = Task1
+	url = https://github.com/padmalebaka7/Task1.git
